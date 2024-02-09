@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<suite-files>
+		<suite-file path="registracijaStudentKorisnik.xml"/>
+		<suite-file path="registracijaKompanijaKorisnik.xml"/>
+		<suite-file path="promenaLozinke.xml"/>
+		<suite-file path="studentUnosStranogJezika.xml"/>
+	</suite-files>
+  <!--<test thread-count="5" name="Test">
+    <classes>
+      <class name="artId.RegistracijaStudenta2"/>
+      <class name="artId.RegistracijaStudenta"/>
+      <class name="artId.RegistracijaStudentaNeuspeh1"/>
+      <class name="artId.RegistracijaStudentaNeuspeh5"/>
+      <class name="artId.RegistracijaStudentaNeuspeh6"/>
+      <class name="artId.RegistracijaStudentaNeuspeh9"/>
+      <class name="artId.RegistracijaKompanije"/>
+      <class name="artId.RegistracijaKompanijeNeuspeh1"/>
+      <class name="artId.PromenaLozinke"/>
+      <class name="artId.StudentNeuspesanUnosStranogJezika"/>
+    </classes>
+  </test> -->
+</suite> <!-- Suite -->
