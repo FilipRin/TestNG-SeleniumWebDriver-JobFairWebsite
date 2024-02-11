@@ -2,7 +2,7 @@
 
 In this (maven) project, i tested functionalities of faculties web server about JobFair.
 Java files are tests i wrote to test registration, password change, students rating companies, etc..  and xml files are suites which run that tests.
-There is HTMl file that shows test reports, and docx file where i wrote my report with equivalence classes, test plans, test report and bug report.
+There is HTML file that shows test reports, and docx file where i wrote my report with equivalence classes, test plans, test report and bug report.
 Folders contain images used in code.
 Lastly, .side file is SeleniumIDE file for the same web server, with tests for different functionalities than java code.
 
